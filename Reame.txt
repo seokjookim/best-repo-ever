@@ -1,3 +1,3 @@
 New Reame create in local
-### new branch2 change ### Changes ### new branch2 change ### in second branch ### new branch2 change ###
+### new branch2 change ### Changes ### new branch2 change ### in second branch ### new branch2 change ###  changed in new branched (merged)
 Changes in Branches..
